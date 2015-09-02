@@ -1,0 +1,1 @@
+Durch den Druck auf den BUTTON/ Taster wechselt der Arduino zwischen der roten und der grünen LED.
