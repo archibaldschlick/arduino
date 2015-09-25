@@ -1,1 +1,16 @@
+Arduino Uno
+1x Breadboard ;)
+1x LED Grün / green
+1x LED Rot  / red
+2x Widerstände 220 Ohm / resistors 220 Ohm
+1x Widerstand 10k Ohm / resistor 10k Ohm
+1x Taster / Button
+8x Kabel / cables
+
+Deutsch: 
 Durch den Druck auf den BUTTON/ Taster wechselt der Arduino zwischen der roten und der grünen LED.
+
+English:
+When you push the button the Arduino will switch between the red and green LED. 
+
+
